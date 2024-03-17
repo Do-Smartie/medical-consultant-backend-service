@@ -1,0 +1,25 @@
+project_name/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py        # Define your Flask routes here
+│   ├── models.py        # Define your database models here
+│   ├── forms.py         # Define your WTForms here
+│   ├── static/          # Static files such as CSS, JS, images
+│   │   └── css/
+│   │   └── js/
+│   │   └── img/
+│   ├── templates/       # HTML templates
+│   │   └── base.html    # Base template
+│   │   └── index.html   # Sample template
+│   │   └── ...
+│   └── ...
+│
+├── migrations/          # Database migrations (if using Flask-Migrate)
+│
+├── tests/               # Unit tests
+│
+├── config.py            # Configuration settings
+├── requirements.txt     # Python dependencies
+├── run.py               # Entry point to run your Flask app
+└── README.md            # Project documentation
