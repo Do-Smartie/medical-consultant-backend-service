@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "4c8e44bc-408c-4933-9921-0dda49980106",
+		"name": "Ai_doctor",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24588236"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:5000/chatbot",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"message\":\"Message for Chatbot\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/chatbot",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"chatbot"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
