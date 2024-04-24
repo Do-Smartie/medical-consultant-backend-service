@@ -1,0 +1,387 @@
+{
+    "health_tips": [
+      {
+        "condition": "Sneeze",
+        "tips": [
+          "Look for teas that contain herbs such as Cinnamon, Ginger, Mint and honey.",
+          "Take Hot Shower or Facial Steam.",
+          "Have Chicken Soup with Pepper.",
+          "Have coriander seed water by boiling."
+        ]
+      },
+      {
+        "condition": "Shivering",
+        "tips": [
+          "Wear warm and comfortable clothes.",
+          "Drink hot water or herbal teas to be warm."
+        ]
+      },
+      {
+        "condition": "Joint Pain",
+        "tips": [
+          "Add turmeric to the dishes.",
+          "Use Eucalyptus oil.",
+          "Get a massage.",
+          "Have balloon vine spinach (Mudakathan Keerai) soup.",
+          "Drink drumstick tree leaves soup."
+        ]
+      },
+      {
+        "condition": "Stomach Pain",
+        "tips": [
+          "Place a hot water bottle or heated wheat bag on your abdomen.",
+          "Try Ginger Tea with Lemon.",
+          "Swallow a small amount of Fenugreek Seed with water.",
+          "Have omum water."
+        ]
+      },
+      {
+        "condition": "Acidity",
+        "tips": [
+          "Boil some mint leaves in water and drink after the meal.",
+          "Drink low-fat milk, plant-based milk and smoothies to reduce acidity.",
+          "Boil milk and add garlic. Have the milk to reduce acidity."
+        ]
+      },
+      {
+        "condition": "Ulcer",
+        "tips": [
+          "Avoid spicy foods.",
+          "Drink plenty of water.",
+          "Don’t skip any meals.",
+          "If it's severe visit respective hospitals.",
+          "Have poppy seeds (Gasagase) to cure ulcer."
+        ]
+      },
+      {
+        "condition": "Muscle Pain",
+        "tips": [
+          "Use an ice pack or bag.",
+          "Use Eucalyptus oil for the pain.",
+          "Avoid hard physical workouts.",
+          "Mix Camphor (Karpooram) and coconut oil and apply in the affected area."
+        ]
+      },
+      {
+        "condition": "Vomiting",
+        "tips": [
+          "Mix lemon and salt in hot water. Consume immediately to stop vomiting sensation.",
+          "Add a teaspoon of cinnamon powder into a cup of boiling water. Add a few drops of honey and then drink the mixture.",
+          "Smell lemon for vomiting sensation."
+        ]
+      },
+      {
+        "condition": "Weight Gain",
+        "tips": [
+          "Increase the intake of fats and proteins.",
+          "Eat more often.",
+          "Get quality sleep.",
+          "Try weight gaining shakes."
+        ]
+      },
+      {
+        "condition": "Anxiety",
+        "tips": [
+          "Have daily meditation practices and breathing exercises.",
+          "Follow a healthy diet.",
+          "Keep the mind calm and relaxed.",
+          "Have dance moves or listen to music to reduce anxiety."
+        ]
+      },
+      {
+        "condition": "Mood Swings",
+        "tips": [
+          "Getting enough sleep, exercising, managing stress can help reduce them.",
+          "Practice a healthy diet and sufficient sleep can reduce mood swing.",
+          "Always try to keep the mood in a happier mood of doing activities or games."
+        ]
+      },
+      {
+        "condition": "Weight Loss",
+        "tips": [
+          "Decrease your intake of processed foods and added sugar. Instead, start consuming more vegetables, fruits, proteins, and fibers.",
+          "Have a balanced diet and exercise.",
+          "Get enough sleep.",
+          "Burn more calories than you consume daily to lose weight.",
+          "Drink more water."
+        ]
+      },
+      {
+        "condition": "Irregular Periods",
+        "tips": [
+          "Maintain a healthy weight and practice Yoga.",
+          "Drink apple cider vinegar daily.",
+          "Eat pineapple.",
+          "Manage the stress level.",
+          "See the doctor if you missed 3 or more periods in a row.",
+          "Have black cumin seed."
+        ]
+      },
+      {
+        "condition": "Cough",
+        "tips": [
+          "Mix honey + pepper and have it for stopping continuous cough.",
+          "Ginger tea can help reduce cough.",
+          "At night, raise your head up a bit with an extra pillow.",
+          "Sip hot water with honey.",
+          "In warm milk, add turmeric powder and pepper. Drink for better result.",
+          "If it's severe visit respective hospitals."
+        ]
+      },
+      {
+        "condition": "Fever",
+        "tips": [
+          "Get plenty of rest and stay home.",
+          "Choose light clothing.",
+          "In a bowl, soak a cloth or small towel of hot or warm water. Use a warm wet cloth on your forehead, neck, feet, and hands to reduce the fever.",
+          "Drink hot water, juices, broths, and soups.",
+          "Drink white gulmohar leaves (Vadhanarayana keerai) soup."
+        ]
+      },
+      {
+        "condition": "Sweating",
+        "tips": [
+          "Avoid sweat-inducing foods.",
+          "Eat more foods that reduce sweat.",
+          "Stay hydrated.",
+          "Wear breathable, loose-fitting clothing.",
+          "Bathe frequently to reduce skin bacteria and moisture."
+        ]
+      },
+      {
+        "condition": "Indigestion",
+        "tips": [
+          "Drink a cup of ginger tea.",
+          "Dilute half a teaspoon of baking soda in a glass of water and slowly sip it, make sure the baking soda is fully dissolved before drinking.",
+          "Avoid eating late at night. Chew the food slowly and swallow it.",
+          "Have papaya and orange."
+        ]
+      },
+      {
+        "condition": "Headache",
+        "tips": [
+          "Rest in a quiet, dark room.",
+          "Try a cold pack on your forehead.",
+          "Use a heating pad or hot compress.",
+          "Try not to chew.",
+          "Have a cup of coffee.",
+          "Do face steam."
+        ]
+      },
+      {
+        "condition": "Back Pain",
+        "tips": [
+          "Exercise daily and improve posture.",
+          "Reduce pressure on your back while sleeping.",
+          "Add ginger, garlic, mint, turmeric, and cloves in the daily basis.",
+          "Have a good sleep in the relaxed posture.",
+          "Have black gram (Vigna mungo) porridge."
+        ]
+      },
+      {
+        "condition": "Constipation",
+        "tips": [
+          "Drink plenty of water.",
+          "Eat enough fiber daily.",
+          "Exercise regularly.",
+          "Consume olive oil.",
+          "Gently massage your lower abdomen to try to stimulate the area.",
+          "Have amla juice and banana."
+        ]
+      },
+      {
+        "condition": "Diarrhea",
+        "tips": [
+          "Avoid processed food.",
+          "Eat smoothing foods and foods that are easy to digest.",
+          "Stay hydrated.",
+          "Have buttermilk, raw banana, pomegranate, ginger and honey for Diarrhea.",
+          "Have gasagase seed + lemon + salt with white rice."
+        ]
+      },
+      {
+        "condition": "Throat Pain",
+        "tips": [
+          "Try comforting foods and beverage.",
+          "Herbal tea, broths, and soups with warm bowl and pepper can cure throat pain.",
+          "Drinking lemon water helps to relief pain.",
+          "A few leaves of Tulsi with some honey and pepper can be a pain relief.",
+          "Drink cinnamon tea.",
+          "Gargle with rock salt and water."
+        ]
+      },
+      {
+        "condition": "Running Nose",
+        "tips": [
+          "Taking Eucalyptus steam can be helpful.",
+          "Natural remedies like ginger, honey, garlic are helpful.",
+          "Herbal tea, broths, and soups with warm bowl and pepper can cure your problem.",
+          "Hot milk with ginger and pepper is a good medicine."
+        ]
+      },
+      {
+        "condition": "Neck Pain",
+        "tips": [
+          "Do a warm compress.",
+          "Try an anti-inflammatory diet.",
+          "Take frequent breaks from prolonged desk work.",
+          "Keep your shoulders relaxed and your neck in a neutral position.",
+          "Do stretches daily."
+        ]
+      },
+      {
+        "condition": "Dizziness",
+        "tips": [
+          "Sit or lie down immediately when you feel dizzy.",
+          "High intake of juices such as juices and water prevent dizziness.",
+          "Have ginger, amla, lemon and honey in daily basis.",
+          "Practice yoga and exercises."
+        ]
+      },
+      {
+        "condition": "Cramps",
+        "tips": [
+          "Swallow a handful of fenugreek seed with water for immediate relief of pain.",
+          "Massage abdomen with essential oils.",
+          "Avocado, banana helps to reduce the pain.",
+          "Sip an herbal tea.",
+          "Sip lemon juice with salt added."
+        ]
+      },
+      {
+        "condition": "Obesity",
+        "tips": [
+          "Decrease your intake of processed foods and added sugar. Instead, start consuming more vegetables, fruits, proteins, and fibers.",
+          "Have a balanced diet and exercise.",
+          "Get enough sleep.",
+          "Burn more calories than you consume daily to lose weight.",
+          "Drink more water."
+        ]
+      },
+      {
+        "condition": "Dehydration",
+        "tips": [
+          "Water-based drinks like buttermilk, coconut water, lemon water, barley water help to keep hydrated.",
+          "Water is the best and simplest remedy for dehydration.",
+          "Have yogurt, watery-based fruits and fruit juices."
+        ]
+      },
+      {
+        "condition": "Knee Pain",
+        "tips": [
+          "Try herbal ointments.",
+          "Stretch every morning.",
+          "Manage your weight.",
+          "Try heat and cold compress.",
+          "Massage with essential oils.",
+          "If it's severe visit respective hospitals."
+        ]
+      },
+      {
+        "condition": "Depression",
+        "tips": [
+          "Set a goal and start focusing on it.",
+          "Have a daily meditation practice.",
+          "Find ways to relax your mind.",
+          "Improve self-motivation.",
+          "Try music or dance therapy."
+        ]
+      },
+      {
+        "condition": "Lack of Concentration",
+        "tips": [
+          "Sleep well.",
+          "Have a good meditation.",
+          "Keep the relaxed.",
+          "Set a goal and start focusing on it.",
+          "Have blueberries and dark chocolates to improve mind and concentration."
+        ]
+      },
+      {
+        "condition": "Cold",
+        "tips": [
+          "Have a sip of tea by adding fresh lemon juice to hot tea with honey.",
+          "Stay warm and rested.",
+          "Drink hot liquids.",
+          "Take a steamy shower.",
+          "Try homemade vegetable broth.",
+          "Have pepper soup (Rasam) with rice."
+        ]
+      },
+      {
+        "condition": "Acne",
+        "tips": [
+          "Apply ice to the pimple.",
+          "Use makeup with salicylic acid to reduce pimple.",
+          "Wash the face twice daily.",
+          "Drink pineapple juice.",
+          "Keep the hair clean.",
+          "Stop breaking or popping the pimple with hands.",
+          "Apply mint paste to the face or the pimple area to reduce acne."
+        ]
+      },
+      {
+        "condition": "Insomnia",
+        "tips": [
+          "Stick to a regular sleep schedule every day.",
+          "Have warm milk with honey before bedtime.",
+          "Pay attention to what you eat and drink daily.",
+          "7 hours of sleep is important. If it's severe visit the respective specialists."
+        ]
+      },
+      {
+        "condition": "Hair care",
+        "tips": [
+          "Oil the hair weekly twice or thrice.",
+          "Use rosemary water daily.",
+          "Massage head scalp before bedtime for hair growth.",
+          "Use fewer heat products.",
+          "Get rid of split ends.",
+          "Use a hair mask weekly.",
+          "Eat nutrients.",
+          "Apply a mixture of cooked rice, banana, curd and coconut oil for frizzy hair."
+        ]
+      },
+      {
+        "condition": "Grey hair",
+        "tips": [
+          "Add cloves, onion peel and black tea bags in a pan. Boil for 15 minutes. Spray the mixture and leave on hair for 2 hours. Rinse with water only without shampoo. Use twice a week."
+        ]
+      },
+      {
+        "condition": "Hair loss",
+        "tips": [
+          "Use botana oil, rosemary and hibiscus.",
+          "Eat more proteins and iron foods.",
+          "Drink 2-6 liters of water daily.",
+          "Take hair wash 2-3 times weekly.",
+          "In boiling water, add flaxseed, curry leaves, fenugreek seeds. After boil, add olive oil and apply to the scalp and hair for hair growth."
+        ]
+      },
+      {
+        "condition": "Face care / Skin care",
+        "tips": [
+          "Rub half tomato to your face and neck daily.",
+          "Use rose water daily.",
+          "Wash your face twice a day.",
+          "Apply a mixture of cooked rice, raw milk or coconut milk, coconut oil or olive oil to your face daily.",
+          "Apply Honey, aloe vera gel, pinch of turmeric to your face daily."
+        ]
+      },
+      {
+        "condition": "Body care",
+        "tips": [
+          "Use the mixture of sugar, ground coffee, body wash, honey, coconut oil as body scrub daily.",
+          "Add milk, coffee powder, salt, turmeric powder and rose water in bathing water."
+        ]
+      },
+      {
+        "condition": "Foot care",
+        "tips": [
+          "Apply a mixture of tomato juice, coffee powder, baking soda, lemon juice to your feet.",
+          "Soak the feet for 10 minutes in warm water with lemon, salt, baking soda, coconut oil and shampoo. Remove the dead cells by scrubbing.",
+          "Apply a mixture of Coffee powder, rice floor, honey and lemon as a foot pack."
+        ]
+      }
+    ]
+  }

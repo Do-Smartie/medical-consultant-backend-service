@@ -1,9 +1,14 @@
 from flask import Blueprint
 from flask import request
-import pymongo
+from model_processor import MedicalModel
 
 chatbot = Blueprint('chatbot', __name__)
 
+
+
 @chatbot.route('/chatbot',  methods=['POST'])
 def promptInput():
-    return request.json 
+    model = MedicalModel(dict(request.json).get("message"))
+    return model.give_tips()
+
+
