@@ -41,11 +41,11 @@ class MedicalModel:
                 print(f"Health Tips for {self.condition}:")
                 for i, tip in enumerate(tips, start=1):
                     l.append(f"{i}. {tip}")
-                return l
+                return l        
             else:
-                return f"No health tips found for {self.condition}"
+                return json.dumps({"error": f"No health tips found for {self.condition}"})
         else:
-            return "No health condition mentioned in the message"
+            return json.dumps({"error": "No health condition mentioned in the message"})
     
         
 
