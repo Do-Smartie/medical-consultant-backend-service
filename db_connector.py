@@ -68,8 +68,8 @@ class DbConnector:
     
 
     def __init__(self):
-        atlas_connection_uri ="mongodb+srv://indhuma1220:c3jdN4OhcG8RpEYS@cluster0.hhjdngr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        atlas_connection_uri ="mongodb+srv://doctorconsultant:l1WCjZWSQxxku56j@cluster0.dtruqtx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         client = MongoClient(atlas_connection_uri)
-        self.mydb = client["my_database"]
+        self.mydb = client["doctor_consultant"]
 
 
