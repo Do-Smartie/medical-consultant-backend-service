@@ -59,7 +59,7 @@ def login():
     print("email" + str(login_data.get("email")))
     data = k.get_records('dc_userpool', {"email" : login_data.get("email")})
     print(data)
-    if (len(data)>0):
+    if (len(data)>0 and (data[0]["password"] == login_data.get("password"))):
         return store_salted_string(email=login_data.get('email'),k=k)
     else:
         print("Invalid User")
