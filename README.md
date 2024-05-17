@@ -69,11 +69,20 @@ The application will start on [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 ### Get Home Remedies
 
 - **URL:** `/chatbot`
-- **Method:** `GET`
-- **Description:** Retrieve a list of home remedies based on common health problems.
+- **Method:** `POST`
+- **Description:** Retrieve a list of home remedies based on the user's message after validating the user.
 
 #### Example Request
 
 ```http
-GET http://127.0.0.1:5000/chatbot?
+POST /chatbot
+Headers:
+    email: user@example.com
+    salt: some_salt_value
+    hash_string: some_hash_string
+Body:
+{
+    "message": "I have a cold"
+}
+
 
