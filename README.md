@@ -60,3 +60,20 @@ To run the application, use the following command:
 
 ```bash
 flask run
+```
+
+The application will start on [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+
+## API Endpoints
+
+### Get Home Remedies
+
+- **URL:** `/api/`
+- **Method:** `GET`
+- **Description:** Retrieve a list of home remedies based on common health problems.
+
+#### Example Request
+
+```http
+GET 
+
